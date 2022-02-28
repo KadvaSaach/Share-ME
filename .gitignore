@@ -1,0 +1,4 @@
+**/node_modules
+shareme_frontend/node_modules
+shareme_backend/node_modules
+workspace.code-workspace
